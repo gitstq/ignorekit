@@ -1,0 +1,18 @@
+# Binaries & build output
+/ignorekit
+/ignorekit.exe
+*.test
+*.out
+/dist/
+/bin/
+
+# Local env / editor
+.env
+.env.local
+*.swp
+.DS_Store
+Thumbs.db
+
+# Go workspace files (if any)
+go.work
+go.work.sum
